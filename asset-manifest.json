@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Frontend-Safiri-1/static/css/main.9eb5b6da.css",
+    "main.js": "/Frontend-Safiri-1/static/js/main.60dcc0eb.js",
+    "static/media/bg.jpg": "/Frontend-Safiri-1/static/media/bg.14ee8a59cd451b8cb33f.jpg",
+    "static/media/bus3.jpg": "/Frontend-Safiri-1/static/media/bus3.fec86901c5e19079c0cc.jpg",
+    "static/media/seat3.jpg": "/Frontend-Safiri-1/static/media/seat3.f6d16057fe148c30559b.jpg",
+    "static/media/safiri-logoo.png": "/Frontend-Safiri-1/static/media/safiri-logoo.d239c5d1ca128eb95808.png",
+    "static/media/bus2.jpg": "/Frontend-Safiri-1/static/media/bus2.2532fed3db9566062489.jpg",
+    "static/media/seat3.jpeg": "/Frontend-Safiri-1/static/media/seat3.7709f53565cc7bf8404d.jpeg",
+    "index.html": "/Frontend-Safiri-1/index.html",
+    "main.9eb5b6da.css.map": "/Frontend-Safiri-1/static/css/main.9eb5b6da.css.map",
+    "main.60dcc0eb.js.map": "/Frontend-Safiri-1/static/js/main.60dcc0eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eb5b6da.css",
+    "static/js/main.60dcc0eb.js"
+  ]
+}
