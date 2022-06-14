@@ -68,25 +68,14 @@ export default function Home(){
             <p>Comfortable and spacious seats</p>
           </div>
           
-          {/* <div>
-            <div className="card" >
-              <img src={seat3}  />
-              <div className="card-body">
-                <h4 className="card-title">John Doe</h4>
-                <p className="card-text">Some example text.</p>
-                <a href="#" class="btn btn-primary">
-                  See Profile
-                </a>
-              </div>
-            </div>
-          </div>
-        </div> */}
+          
           
         </div>
         <div className="container">
         
             <div className='about text-center'>
-                <h2 className="p-4">About Us</h2>
+            <h3><strong>About Us</strong></h3>
+                
                 <p>Safiri is a transport company based in Nairobi that offer bus transport service to and from Nairobi at very affodable cost.</p>
                   <p>Safiri allows you to check the available bus online without having to physically appear at the bus terminal hence saving you time and cost.</p><p> You can also book a seat online and check when the bus will be leaving. </p>
             </div>
@@ -141,7 +130,7 @@ export default function Home(){
                     <b>MENU</b>
                   </h6>
                   <ul class="list-unstyled">
-                    <li>Home</li>
+                    <li><Link to='#'>Home</Link></li>
                     <li>About</li>
                     <li>Blog</li>
                   </ul>
@@ -159,7 +148,7 @@ export default function Home(){
                   <p class="social text-muted mb-0 pb-0 bold-text">
                     {" "}
                     <span class="mx-2">
-                      <i class="fa fa-facebook" aria-hidden="true"></i>
+                   <a href='https://facebook.com/elijah.muthoni.9' target="blank"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
                     </span>{" "}
                     <span class="mx-2">
                       <i class="fa fa-linkedin-square" aria-hidden="true"></i>
